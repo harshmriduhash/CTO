@@ -52,3 +52,4 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
 )
 
 export default React.memo(QuestionCard)
+
