@@ -51,7 +51,7 @@ const ProjectPlan: React.FC<ProjectPlanProps> = ({ plan }) => (
             <p className="mt-2 whitespace-pre-wrap">{plan.product_requirements}</p>
           </section>
           <section>
-            <h3 className="font-semibold text-lg">Job Description</h3>
+          <h3 className="font-semibold     text-lg">Job Description</h3>
             <p className="mt-2 whitespace-pre-wrap">{plan.job_description}</p>
           </section>
           <section>
